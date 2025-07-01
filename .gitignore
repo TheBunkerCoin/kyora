@@ -1,0 +1,12 @@
+# application logs
+messages.ndjson
+spam-messages.ndjson
+
+# node
+node_modules
+
+# vsc
+.vscode
+
+# jetbrains
+.idea
