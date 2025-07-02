@@ -20,6 +20,7 @@ Current Telegram anti-spam bots fail to address modern spam tactics. Kyora fills
 ### Roadmap
 - Custom portal with advanced captcha verification
 - Vector DB & LLM integration for self-improving detection
+- Impersonation detection (based on profile picture & name)
 - Community raiding support
 - LLM finetuning on spam
 
