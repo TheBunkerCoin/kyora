@@ -10,3 +10,7 @@ node_modules
 
 # jetbrains
 .idea
+
+# env
+.env
+.env.local
